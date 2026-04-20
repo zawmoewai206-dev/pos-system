@@ -5,25 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b57407a-c8dd-4974-86de-5461cfcaa158" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/orders.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/products.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/cart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/main.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/product.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/zawmoewai206/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/zawmoewai206/controller/CartController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/zawmoewai206/model/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/zawmoewai206/service/OrderService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/zawmoewai206/service/ProductService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/zawmoewai206/util/CsvUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/zawmoewai206/util/IdGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/zawmoewai206/view/CartPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/zawmoewai206/view/CheckoutPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/zawmoewai206/view/MainFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/zawmoewai206/view/ProductPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1776433847382</updated>
       <workItem from="1776433848578" duration="9745000" />
-      <workItem from="1776689642988" duration="6051000" />
+      <workItem from="1776689642988" duration="6662000" />
     </task>
     <servers />
   </component>
